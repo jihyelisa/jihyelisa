@@ -24,6 +24,7 @@
 ### Social Media 🏠
 
 [![Tistory](https://img.shields.io/badge/Tistory-ea5220.svg?style=for-the-badge&logo=Tistory&logoColor=white)](https://j-lisa-dev.tistory.com/)
+  <i>← click!</i>
 <br/>
 
 ### Tech Stack 💻
