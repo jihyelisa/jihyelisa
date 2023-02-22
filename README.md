@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+- 😄 I'm Jihye Kang. You can also call me Lisa.
+- 💬 I can speak English🇺🇸, and majored in Japanese🇯🇵 at SSWU in Seoul, Korea🇰🇷.
+- 🌱 Now I'm studying web programming!
 
 <!--
 **jihyelisa/jihyelisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
