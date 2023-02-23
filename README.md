@@ -1,7 +1,7 @@
-## Hi there 👋
-- 😄 I'm <strong>Jihye Kang</strong>. You can also call me <strong>Lisa</strong>.
-- 🌱 I've been <strong>learning</strong> DL and Web Programming.
-- 🇰🇷 🇯🇵 🇺🇸 I can <strong>speak</strong> English, majored in Japanese in Seoul, Korea.
+## Hi there! 👋
+- 😌 I'm <strong>Jihye Kang</strong>. You can also call me <strong>Lisa</strong>.
+- 🌱 I've been learning <strong>DL</strong> and <strong>web</strong> development.
+- 🇰🇷 🇯🇵 🇺🇸 I can speak <strong>English</strong> and also majored in <strong>Japanese</strong> in Seoul, <strong>Korea</strong>.
 
 <br/>
 <p align="center" style=scroll="no">
