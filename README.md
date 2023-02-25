@@ -27,7 +27,7 @@
   <i>← click!</i>
 <br/>
 
-### Tech 💻
+### Techs 💻
 
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
