@@ -34,6 +34,7 @@
 <br/>
 ![JQuery](https://img.shields.io/badge/jquery-343434.svg?style=for-the-badge&logo=jquery&logoColor=77d0f8)
 ![React](https://img.shields.io/badge/react-23262e.svg?style=for-the-badge&logo=react&logoColor=149eca)
+![OracleSQL](https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 <br/>
 
 ### Tools 🔧
@@ -54,7 +55,7 @@
 <br/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white">
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
-![OracleSQL](https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-6DB33F.svg?style=for-the-badge&logo=JPA&logoColor=white)
   
   
 </div>
