@@ -53,10 +53,10 @@
 ### Studying 📖
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JPA](https://img.shields.io/badge/JPA-6DB33F.svg?style=for-the-badge&logo=JPA&logoColor=white)
 <br/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white">
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-6DB33F.svg?style=for-the-badge&logo=JPA&logoColor=white)
   
   
 </div>
