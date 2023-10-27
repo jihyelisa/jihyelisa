@@ -1,6 +1,6 @@
 ## Hi there! 👋
 - 😌 I'm <strong>Jihye Kang</strong>. You can also call me <strong>Lisa</strong>.
-- 🌱 I've been studying <strong>DL</strong> and <strong>web</strong> development in Seoul.
+- 🌱 I've been working as a <strong>back-end developer</strong> since 2023.
 - 🇰🇷 🇯🇵 🇺🇸 I speak <strong>Korean</strong>, <strong>Japanese</strong> and <strong>English</strong>.
 <br/>
 <p align="center" style=scroll="no">
@@ -53,6 +53,7 @@
 ### Studying 📖
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/CSharp-3A0091.svg?style=for-the-badge&logo=CSharp&logoColor=A279DD)
 ![JPA](https://img.shields.io/badge/JPA-6DB33F.svg?style=for-the-badge&logo=JPA&logoColor=white)
 <br/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white">
