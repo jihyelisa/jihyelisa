@@ -22,7 +22,7 @@
 
 ### Social Media 🏠
 
-[![Tistory](https://img.shields.io/badge/Tistory-ea5220.svg?style=for-the-badge&logo=Tistory&logoColor=white)](https://j-lisa-dev.tistory.com/)
+[![Tistory](https://img.shields.io/badge/Tistory-ea5220.svg?style=for-the-badge&logo=Tistory&logoColor=white)](https://j-lisa-dev.tistory.com/2/)
   <i>← click!</i>
 <br/>
 
