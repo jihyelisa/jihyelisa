@@ -1,6 +1,6 @@
 ## Hi there! 👋
 - 😌 I'm <strong>Jihye Kang</strong>. You can also call me <strong>Lisa</strong>.
-- 🌱 I've been working as a <strong>back-end developer</strong> since 2023.
+- 🌱 I've been working as a <strong>web developer</strong> since 2023.
 - 🇰🇷 🇯🇵 🇺🇸 I speak <strong>Korean</strong>, <strong>Japanese</strong> and <strong>English</strong>.
 <br/>
 <p align="center" style=scroll="no">
