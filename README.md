@@ -58,6 +58,7 @@
 <br/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white">
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
+![c++](https://img.shields.io/badge/C++-6295CB.svg?style=for-the-badge&logo=c++&logoColor=white)
 ![MFC](https://img.shields.io/badge/mfc-EC642A.svg?style=for-the-badge&logo=mfc&logoColor=white)
   
   
