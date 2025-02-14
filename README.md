@@ -1,7 +1,7 @@
 ## Hi there! 👋
-- 😌 I'm <strong>Jihye Kang</strong>. You can also call me <strong>Lisa</strong>.
-- 🌱 I've been working as a <strong>web developer</strong> since 2023.
-- 🇰🇷 🇯🇵 🇺🇸 I speak <strong>Korean</strong>, <strong>Japanese</strong> and <strong>English</strong>.
+- 😌 I'm <strong>Jihe</strong>.
+- 🇰🇷 I live in <strong>Seoul, Korea</strong>.
+- 🌱 I've been working as a <strong>full stack web developer</strong> since 2023.
 <br/>
 <p align="center" style=scroll="no">
   <table>
@@ -30,36 +30,26 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-<br/>
 ![JQuery](https://img.shields.io/badge/jquery-343434.svg?style=for-the-badge&logo=jquery&logoColor=77d0f8)
 ![React](https://img.shields.io/badge/react-23262e.svg?style=for-the-badge&logo=react&logoColor=149eca)
+<br/>
+![C#](https://img.shields.io/badge/CSharp-3A0091.svg?style=for-the-badge&logo=CSharp&logoColor=A279DD)
+![c++](https://img.shields.io/badge/C++-6295CB.svg?style=for-the-badge&logo=c++&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white)
 ![OracleSQL](https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 <br/>
-![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
-<br/>
+<!--![MFC](https://img.shields.io/badge/mfc-EC642A.svg?style=for-the-badge&logo=mfc&logoColor=white)-->
 
 ### Tools 🔧
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)
- <br/>
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio&logoColor=white">
 <br/>
 
 ### Studying 📖
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C#](https://img.shields.io/badge/CSharp-3A0091.svg?style=for-the-badge&logo=CSharp&logoColor=A279DD)
-![JPA](https://img.shields.io/badge/JPA-6DB33F.svg?style=for-the-badge&logo=JPA&logoColor=white)
-<br/>
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white">
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
-![c++](https://img.shields.io/badge/C++-6295CB.svg?style=for-the-badge&logo=c++&logoColor=white)
-![MFC](https://img.shields.io/badge/mfc-EC642A.svg?style=for-the-badge&logo=mfc&logoColor=white)
   
   
 </div>
