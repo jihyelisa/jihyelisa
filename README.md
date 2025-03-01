@@ -1,7 +1,7 @@
 ## Hi there! 👋
-- 😌 I'm <strong>Jihe</strong>.
+- 😌 I'm <strong>Jihye</strong>.
 - 🇰🇷 I live in <strong>Seoul, Korea</strong>.
-- 🌱 I've been working as a <strong>full stack web developer</strong> since 2023.
+- 🌱 I've been working as a <strong>full-stack software engineer</strong> since 2023.
 <br/>
 <p align="center" style=scroll="no">
   <table>
